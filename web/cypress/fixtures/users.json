@@ -20,7 +20,7 @@
     {"email": "!@#$%#@#$@", "password": "123456" },
     {"email": "admin@google,com", "password": "123456" },
     {"email": "asdfda1234dasd", "password": "123456" },
-    {"email": "     @google.com", "password": "123456}" }
+    {"email": "@google.com", "password": "123456}" }
   ],
   "empty_email": {
     "email": "",

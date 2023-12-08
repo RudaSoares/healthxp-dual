@@ -1,0 +1,33 @@
+{
+    "notification": {
+        "student": {
+            "name": "Emily Stone",
+            "email": "emily@hotmail.com",
+            "age": "29",
+            "weight": "65",
+            "feet_tall": "1.77"
+        },
+        "plan": {
+            "id": 2,
+            "name": "Premium",
+            "price": 89.99
+        },
+        "question": "Qual o melhor termogênico?"
+    },
+    "prof_answer": {
+        "student": {
+            "name": "Carlos Magnus",
+            "email": "carlos@magnus.com",
+            "age": "29",
+            "weight": "65",
+            "feet_tall": "1.77"
+        },
+        "plan": {
+            "id": 2,
+            "name": "Premium",
+            "price": 89.99
+        },
+        "question": "Quais os melhores suplementos para ganhar massa magra?",
+        "answer": "Tem diversas marcas, tente procurar que tenha mais proteína isolada."
+    }    
+}

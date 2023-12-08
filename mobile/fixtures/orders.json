@@ -1,0 +1,17 @@
+{
+    "help": {
+        "student": {
+            "name": "Tainá Cordeiro",
+            "email": "taina@bol.com",
+            "age": "29",
+            "weight": "63",
+            "feet_tall": "1.73"
+        },
+        "plan": {
+            "id": 2,
+            "name": "Premium",
+            "price": 89.99
+        },
+        "question": "Qual o melhor termogênico?"
+    }
+}

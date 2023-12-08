@@ -1,0 +1,30 @@
+{
+    "success_login": {
+        "student": {
+            "name": "Rudá Soares",
+            "email": "ruda@soares.com",
+            "age": "26",
+            "weight": "90",
+            "feet_tall": "1.87"
+        },
+        "plan": {
+            "id": 2,
+            "name": "Premium",
+            "price": 89.99
+        }
+    },
+    "not_login": {
+        "student": {
+            "name": "Rudá Salah",
+            "email": "ruda@arabe.com",
+            "age": "26",
+            "weight": "90",
+            "feet_tall": "1.87"
+        },
+        "plan": {
+            "id": 1,
+            "name": "Health",
+            "price": 99.99
+        }
+    }
+}

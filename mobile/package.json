@@ -1,0 +1,18 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "Projeto de automação para android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudá Soares",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^1.22.3",
+    "codeceptjs": "^3.5.6",
+    "codeceptjs-tesults": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "webdriverio": "^8.20.4"
+  }
+}
